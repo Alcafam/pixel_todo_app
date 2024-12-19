@@ -43,13 +43,13 @@ To get started with the project, follow these steps:
     php artisan serve
     ```
 
-Optional
+## Optional
 You can also clear various caches for better performance or troubleshooting:
     ```bash
     php artisan optimize:clear
     ```
 
-.env Content
+## .env Content
 Make sure to configure your .env file with the following database settings:
 ```
 DB_CONNECTION=mysql
