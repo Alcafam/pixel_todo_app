@@ -16,6 +16,7 @@ class TodoController extends Controller
         return view('index', compact('todos'));
     }
 
+#region GETTER
     public function get_todo_by_id(Request $request)
     {
         return response()->json([

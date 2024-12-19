@@ -9,7 +9,7 @@
                     <h1>YOUR TASKS</h1>
                 </div>
                 <div class="col text-end">
-                    <a href="#" class="btn btn-success" id="add_task">Add Task</a>
+                    <a href="javascript:void(0)" class="btn btn-success" id="add_task">Add Task</a>
                 </div>             
             </div>
             <div id="todo_partial">
