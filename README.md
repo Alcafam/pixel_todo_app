@@ -1,4 +1,9 @@
 # Pixel Todo App
+# short demo
+
+
+https://github.com/user-attachments/assets/b71bf901-410e-4566-a072-e658370978c2
+
 
 ## Short Intro
 
