@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/085fe45c-736b-4c45-a6c4-37fec2c2d4b4
 
 ## Short Intro
 
-Just to challenge myself, I integrated AJAX to handle requests in this project. The goal was to improve the interactivity and performance of the application by making asynchronous requests.
+Just to challenge myself, I integrated AJAX to handle requests in this project. 
 
 ## Initial Actions
 
