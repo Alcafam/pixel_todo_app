@@ -66,4 +66,7 @@ DB_PORT=3306
 DB_DATABASE=pixel_todo_app
 DB_USERNAME=root
 DB_PASSWORD=
+
+#pls add this as well
+SESSION_DRIVER=file
 ````
